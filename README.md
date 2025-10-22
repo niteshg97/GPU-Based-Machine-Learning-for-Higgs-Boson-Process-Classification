@@ -148,12 +148,11 @@ This project demonstrates the effectiveness of **GPU-based ML** in high-energy p
 
 ---
 
-## 📚 References
-1. Project documentation — *GPU-based Machine Learning for Higgs Boson Signal Process Discrimination* (uploaded paper).  
-2. UCI Machine Learning Repository — [HIGGS Dataset](https://archive.ics.uci.edu/ml/datasets/HIGGS).  
-3. RAPIDS Framework — [https://rapids.ai](https://rapids.ai).  
-4. XGBoost Documentation — [https://xgboost.readthedocs.io](https://xgboost.readthedocs.io).  
-5. CERN Open Data Portal — [https://opendata.cern.ch](https://opendata.cern.ch).  
+## 📚 References  
+1. UCI Machine Learning Repository — [HIGGS Dataset](https://archive.ics.uci.edu/ml/datasets/HIGGS).  
+2. RAPIDS Framework — [https://rapids.ai](https://rapids.ai).  
+3. XGBoost Documentation — [https://xgboost.readthedocs.io](https://xgboost.readthedocs.io).  
+4. CERN Open Data Portal — [https://opendata.cern.ch](https://opendata.cern.ch).  
 
 ---
 
