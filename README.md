@@ -129,25 +129,6 @@ This project demonstrates the effectiveness of **GPU-based ML** in high-energy p
 
 ---
 
-## 📈 Suggested Visual Outputs
-
-📊 **Model ROC Curves**
-- `roc_xgb.png`
-- `roc_rf.png`
-- `roc_lr.png`
-
-📉 **Confusion Matrices**
-- `confusion_xgb.png`
-- `confusion_rf.png`
-
-🔥 **Feature Importance**
-- `feature_importance_xgb.png`
-
-🧮 **PCA Variance Explained**
-- `pca_variance.png`
-
----
-
 ## 📚 References  
 1. UCI Machine Learning Repository — [HIGGS Dataset](https://archive.ics.uci.edu/ml/datasets/HIGGS).  
 2. RAPIDS Framework — [https://rapids.ai](https://rapids.ai).  
