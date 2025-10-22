@@ -96,7 +96,7 @@ After multiple experiments, **Logistic Regression** was dropped due to underperf
 
 | 🧠 Model | Accuracy | Precision | Recall | Specificity | F1-Score | AUC | Training Time (s) |
 |:--------:|:---------:|:----------:|:----------:|:----------:|:--------:|:----:|:----------------:|
-| **Logistic Regression** | 0.69 | 0.68 | 0.70 | 0.68 | 0.69 | 0.73 | 52 |
+| **Logistic Regression** | 0.61 | 0.61 | 0.61 | 0.62 | 0.69 | 0.73 | 52 |
 | **Random Forest** | 0.73 | 0.74 | 0.72 | 0.73 | 0.73 | 0.80 | 176 |
 | **🌟 XGBoost (Selected)** | **0.74** | **0.75** | **0.73** | **0.74** | **0.74** | **0.82** | **132** |
 
