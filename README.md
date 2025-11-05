@@ -102,7 +102,7 @@ After multiple experiments, **Logistic Regression** was dropped due to underperf
 
 ✅ **XGBoost outperformed all models**, particularly in **precision and AUC**, making it the most suitable model for Higgs boson process classification.
 
-📦 The trained XGBoost model is saved in:
+📦 The trained XGBoost model is saved in:xgb.v1.model
 
 
 ------
