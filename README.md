@@ -25,7 +25,7 @@ These innovations allow physicists to separate meaningful *signal* events from e
 ### Computational Demands
 High-energy physics experiments — like those at the **Large Hadron Collider (LHC)** — generate **tens of terabytes per second** of raw data.  
 The **High Luminosity LHC (HL-LHC)** will produce up to **15× more data**.  
-Traditional CPUs struggle with this scale, motivating the use of **GPUs** for their massive parallelism in matrix operations and data transformations 🚀.
+Traditional CPUs struggle with this scale, motivating the use of **GPUs** for their massive parallelism in matrix operations and data transformations .
 
 ---
 
